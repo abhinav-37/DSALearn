@@ -3,5 +3,6 @@
   "files.associations": {
     "ostream": "cpp",
     "string_view": "cpp"
-  }
+  },
+  "code-runner.runInTerminal": true
 }
