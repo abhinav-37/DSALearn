@@ -2,7 +2,8 @@
   "git.ignoreLimitWarning": true,
   "files.associations": {
     "ostream": "cpp",
-    "string_view": "cpp"
+    "string_view": "cpp",
+    "chrono": "cpp"
   },
   "code-runner.runInTerminal": true
 }
