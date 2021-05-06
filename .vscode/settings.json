@@ -3,7 +3,8 @@
   "files.associations": {
     "ostream": "cpp",
     "string_view": "cpp",
-    "chrono": "cpp"
+    "chrono": "cpp",
+    "iostream": "cpp"
   },
   "code-runner.runInTerminal": true
 }
